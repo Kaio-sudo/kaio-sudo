@@ -42,7 +42,3 @@ Gosto de transformar ideias em projetos, explorar novas possibilidades e compart
 ---
 
 **"A melhor maneira de aprender programação é colocando a mão na massa."**
-
-
-
-deixei assim, adicione mais coisas para deixar mais interessante
