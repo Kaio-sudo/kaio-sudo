@@ -41,4 +41,50 @@ Gosto de transformar ideias em projetos, explorar novas possibilidades e compart
 
 ---
 
+### 💻 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| **ExploreBSB** | Plataforma de turismo e eventos de Brasília, desenvolvida com HTML e CSS. |
+| **SK Pudins** | Site institucional para divulgação de produtos e apresentação de uma marca de confeitaria. |
+| **Entrelinhas** | Projeto de aplicação de lista de tarefas (To-Do List). |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
+</p>
+
+---
+
+### 📈 Minha atividade no GitHub
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)](https://github.com/SEU_USUARIO)
+
+---
+
+### 🎯 Objetivos
+
+- Aprimorar minhas habilidades em desenvolvimento de software.
+- Desenvolver projetos cada vez mais completos.
+- Aprender novas linguagens e tecnologias.
+- Conquistar minha primeira oportunidade profissional na área de TI.
+- Construir uma carreira sólida no desenvolvimento de sistemas.
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Adicione aqui seu LinkedIn e outros contatos -->
+</p>
+
+---
+
 **"A melhor maneira de aprender programação é colocando a mão na massa."**
